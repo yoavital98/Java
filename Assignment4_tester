@@ -7,10 +7,10 @@ public class Test {
         //testPartB();
         //testQ1E1();       //Runs tests for 1.1
         //testQ1E2();       //Runs tests for 1.2
-        //testQ2E2a();      //Runs tests for 2.2 addFirst
-        //testQ2E2b();      //Runs tests for 2.2 addLast
-        //testQ2E2c();      //Runs tests for 2.2 removeFirst
-        //testQ2E2d();      //Runs tests for 2.2 removeLast
+        //testQ2E1a();      //Runs tests for 2.2 addFirst
+        //testQ2E1b();      //Runs tests for 2.2 addLast
+        //testQ2E1c();      //Runs tests for 2.2 removeFirst
+        //testQ2E1d();      //Runs tests for 2.2 removeLast
         //testQ2E3();       //Runs tests for 2.3
         //testQ2E4();       //Runs tests for 2.4
         //testQ2E5a();      //Runs tests for 2.5 isReduced
